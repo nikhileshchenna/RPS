@@ -1,0 +1,12 @@
+
+body{
+    background-image: url('plain.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#bg{
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+    margin-top: 180px;
+}

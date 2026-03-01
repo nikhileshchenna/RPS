@@ -1,0 +1,53 @@
+body {
+  background-image: url("rps.jpg");
+  
+  background-size: cover;
+}
+
+#login {
+  margin-top: 150px;
+  border: 1px solid white;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  align-items: center;
+  margin-left: 400px;
+  margin-right: 400px;
+  border-radius: 40px;
+  padding-top: 50px;
+  backdrop-filter: blur(5px);
+}
+#name {
+  height: 30px;
+  width: 330px;
+  background: transparent;
+  background: transparent;
+  color: white;
+  outline: none;
+  border: 1px solid wheat;
+  border-radius: 10px;
+}
+#email {
+  height: 30px;
+  width: 330px;
+  background: transparent;
+  color: white;
+  outline: none;
+  border: 1px solid wheat;
+  border-radius: 10px;
+}
+#sub{
+    margin-top: 40px;
+    width: 330px;
+    background: transparent;
+    outline: none;
+    border: 1px solid wheat;
+    border-radius: 10px;
+    height: 30px;
+    color: wheat;
+    font-family: sans-serif;
+    font-weight: 600;
+
+}
